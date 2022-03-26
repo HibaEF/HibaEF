@@ -1,6 +1,7 @@
 
-<img  width="50px" height="auto" src="C:\Users\Hiba\Downloads\41.png"   alt=""/>
+
 <h1 align="center">Hi 👋, I'm Hiba Elwafi</h1>
+<img  width="50px" height="auto" src="C:\Users\Hiba\Downloads\41.png"   alt=""/>
 <h3 align="center">I'm a Full-Stack Developer who is eager to learn!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibaef&label=Profile%20views&color=0e75b6&style=flat" alt="hibaef" /> </p>
