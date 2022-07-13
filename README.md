@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hiba Elwafi</h1>
 
-<img src="https://static.vecteezy.com/system/resources/previews/000/227/854/original/female-developer-vector.jpg" align="right"  alt="" width="170" height="170"/>
+<img src="https://static.vecteezy.com/system/resources/previews/000/227/854/original/female-developer-vector.jpg" align="right"  alt="" width="200" height="200"/>
 <h3 align="center">I'm a Full-Stack Developer who is eager to learn!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibaef&label=Profile%20views&color=0e75b6&style=flat" alt="hibaef" /> </p>
