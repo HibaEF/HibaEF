@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Hiba Elwafi</h1>
 
-<img src=".\photo.png" align="right"  alt="" width="170" height="170"/>
+<img src="https://64.media.tumblr.com/cf5c4c5c0a99ba54a62593bf85ffac90/tumblr_inline_pjfaxaCHjQ1secf3a_1280.gifv" align="right"  alt="" width="170" height="170"/>
 <h3 align="center">I'm a Full-Stack Developer who is eager to learn!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibaef&label=Profile%20views&color=0e75b6&style=flat" alt="hibaef" /> </p>
