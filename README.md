@@ -2,13 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hiba%20Elwafi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer+%40+Teligencia+%F0%9F%9A%80;NestJS+%7C+Next.js+%7C+GraphQL+%7C+React.js;Microservices+%7C+RabbitMQ+%7C+Docker;Playwright+%7C+Prometheus+%7C+Grafana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer+%40+Hirecue+%F0%9F%9A%80;NestJS+%7C+Next.js+%7C+GraphQL+%7C+React.js;Microservices+%7C+RabbitMQ+%7C+Docker;Playwright+%7C+Prometheus+%7C+Grafana)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hibaef&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-elwafi-b5a21318a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiba.elwafi@esprit.tn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elwafihiba5@gmail.com)
 
 </div>
 
@@ -128,7 +128,7 @@ const hiba: Developer = {
 ###  Let's connect and build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-elwafi-b5a21318a/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiba.elwafi@esprit.tn)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elwafihiba5@gmail.com)
 
 <br/>
 
