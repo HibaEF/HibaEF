@@ -2,26 +2,33 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hiba%20Elwafi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer+%40+Hirecue+%F0%9F%9A%80;NestJS+%7C+Next.js+%7C+GraphQL+%7C+React.js;Microservices+%7C+RabbitMQ+%7C+Docker;Playwright+%7C+Prometheus+%7C+Grafana)](https://git.io/typing-svg)
+<a href="https://portfolio-hiba-elwafi-mmxv630wr-hibaefs-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Voir_mon_Portfolio-7c3aed?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/hiba-elwafi-b5a21318a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hiba.elwafi@esprit.tn">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hibaef&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-elwafi-b5a21318a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elwafihiba5@gmail.com)
 
 </div>
 
 ---
 
-##  About Me
+## 👩‍💻 À propos de moi
 
 ```typescript
 const hiba: Developer = {
   name:        "Hiba Elwafi",
   role:        "Full Stack Engineer @ Hirecue",
-  education:   "Engineering Degree — ESPRIT",
-  location:    "Tunisia 🇹🇳",
+  education:   "Ingénierie — ESPRIT",
+  location:    "Tunisie 🇹🇳",
+  portfolio:   "https://portfolio-hiba-elwafi-mmxv630wr-hibaefs-projects.vercel.app/",
   stack: {
     frontend:    ["Next.js", "React.js", "Angular", "TypeScript"],
     backend:     ["NestJS", "Node.js", "Express.js", "Flask", "GraphQL"],
@@ -32,15 +39,17 @@ const hiba: Developer = {
     testing:     ["Playwright", "Cucumber", "Gherkin"],
   },
   passions:    ["Clean Architecture", "Microservices", "Observability"],
-  contact:     "hiba.elwafi@esprit.tn",
+  currentlyBuilding: "Découvrez mes projets sur mon portfolio 👆",
 };
 ```
 
+> 💼 **Envie de voir mon travail en détail ?** Retrouvez mes projets, études de cas et réalisations sur mon **[portfolio personnel](https://portfolio-hiba-elwafi-mmxv630wr-hibaefs-projects.vercel.app/)**.
+
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
-###  Frontend
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -51,7 +60,7 @@ const hiba: Developer = {
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-###  Backend
+### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -65,34 +74,34 @@ const hiba: Developer = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-###  Databases
+### Bases de données
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-###  Messaging & Streaming
+### Messaging & Streaming
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-###  DevOps & Infra
+### DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-###  Monitoring & Observability
+### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-###  Testing & QA
+### Testing & QA
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-BDD%20Given--When--Then-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -102,33 +111,34 @@ const hiba: Developer = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hibaef&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hibaef&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=7c3aed&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" />
 </div>
 
----
-
-##  GitHub Trophies
-
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hibaef&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=hibaef&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
----
-
-##  Activity Graph
-
+## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hibaef&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hibaef&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" />
 </div>
 
 ---
 
 <div align="center">
 
-###  Let's connect and build something great together!
+### 🚀 Discutons de votre prochain projet !
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-elwafi-b5a21318a/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elwafihiba5@gmail.com)
+<a href="https://portfolio-hiba-elwafi-mmxv630wr-hibaefs-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/hiba-elwafi-b5a21318a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hiba.elwafi@esprit.tn">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/>
 
